@@ -8,8 +8,8 @@ Currently focused on **design verification** and **embedded systems**, with a gr
 
 - **Hardware / VLSI:** digital design, Verilog, design verification, embedded systems, sensor integration
 - **Architecture & systems:** CPU/GPU architecture, memory hierarchies & caches, CUDA, OpenMP, performance analysis
-- **Languages:** C, C++, Python, CUDA, Verilog
-- **AI / ML:** PyTorch, applied machine learning
+- **Languages:** C/C++, Python, CUDA, Verilog, JavaScript
+- **AI / ML:** PyTorch, Tensorflow
 
 ## 💡 Experience highlight
 
