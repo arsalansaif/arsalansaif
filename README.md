@@ -1,31 +1,32 @@
 # Hi, I'm Arsalan Saif 👋
 
-Master's student in **Electrical & Computer Engineering** and **Computer Science** at Northeastern University. I work across the stack — from **GPU/HPC and computer architecture** to **machine learning** and **application development** — and I like taking projects from first principles all the way to measured results.
+MS **Electrical & Computer Engineering** student focused on **hardware engineering** — the silicon behind intelligent systems, from embedded devices to high-performance chips. I like working close to the metal, and I'm especially interested in how **compilers, memory systems, and CPU/GPU architectures** shape real-world performance — and how those designs are verified before tape-out.
 
-## 🔧 What I work with
+Currently focused on **design verification** and **embedded systems**, with a growing focus on **computer architecture and memory systems for AI and HPC**.
 
-- **Languages:** Python, C / C++, CUDA, Swift, JavaScript, Verilog
-- **ML / DL:** PyTorch (LSTMs, GANs, object detection), scikit-learn, NLP
-- **Systems & HPC:** CUDA, OpenMP, computer architecture, OS / systems programming
-- **Hardware:** digital design, signal processing
-- **App dev:** iOS (Swift), full-stack web, Next.js
+## 🔧 Skills
+
+- **Hardware / VLSI:** digital design, Verilog, design verification, embedded systems, sensor integration
+- **Architecture & systems:** CPU/GPU architecture, memory hierarchies & caches, CUDA, OpenMP, performance analysis
+- **Languages:** C, C++, Python, CUDA, Verilog
+- **AI / ML:** PyTorch, applied machine learning
+
+## 💡 Experience highlight
+
+**Real-time pressure-mapping system — Penn State Health.** Built from the ground up: embedded hardware, sensor integration, and wireless visualization, working under real clinical conditions. A hands-on reminder of how small hardware decisions ripple up into system-level behavior.
 
 ## 🚀 Featured projects
 
 | Project | What it is |
 |---|---|
-| [batched-fft-benchmark](https://github.com/arsalansaif/batched-fft-benchmark) | Hand-written batched 1D FFT in C++/OpenMP and CUDA, benchmarked against Intel MKL and cuFFT on P100/V100 GPUs |
-| [taxi-driver-trajectory-lstm](https://github.com/arsalansaif/taxi-driver-trajectory-lstm) | PyTorch LSTM that classifies GPS sub-trajectories by driver |
-| [mnist-gan](https://github.com/arsalansaif/mnist-gan) | GAN in PyTorch that generates MNIST handwritten digits |
-| [cache-simulator](https://github.com/arsalansaif/cache-simulator) | Configurable set-associative CPU cache simulator in C |
+| [batched-fft-benchmark](https://github.com/arsalansaif/batched-fft-benchmark) | Hand-written batched 1D FFT in C++/OpenMP & CUDA, benchmarked vs. Intel MKL and cuFFT on P100/V100 GPUs — with roofline & memory-bandwidth analysis |
+| [cpu-design-space-exploration](https://github.com/arsalansaif/cpu-design-space-exploration) | 18-dimensional CPU pipeline & memory-hierarchy design-space exploration in SimpleScalar |
+| [cache-simulator](https://github.com/arsalansaif/cache-simulator) | Configurable set-associative CPU cache simulator in C (variable size / associativity / block size, LRU) |
 | [mapreduce-wordcount-c](https://github.com/arsalansaif/mapreduce-wordcount-c) | Multithreaded MapReduce-style word count in C with a bounded producer–consumer buffer |
-| [parstagram-ios](https://github.com/arsalansaif/parstagram-ios) | Instagram-clone iOS app in Swift on a Parse backend |
-
-## 🌱 Currently
-
-Building an early-stage insurance-tech prototype in Next.js, and exploring the intersection of ML and systems performance.
+| [taxi-driver-trajectory-lstm](https://github.com/arsalansaif/taxi-driver-trajectory-lstm) | PyTorch LSTM for GPS trajectory sequence classification (applied ML) |
 
 ## 📫 Reach me
 
 - Email: saif.ar@northeastern.edu
+- LinkedIn: _(add link)_
 - GitHub: [@arsalansaif](https://github.com/arsalansaif)
