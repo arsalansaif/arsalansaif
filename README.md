@@ -26,6 +26,7 @@ Currently focused on **design verification** and **embedded systems**, with a gr
 
 | Project | What it is |
 |---|---|
+| [vlsi-16bit-multiplier-cadence](https://github.com/arsalansaif/vlsi-16bit-multiplier-cadence) | Transistor-level 16-bit multiplier in Cadence Virtuoso (45 nm gpdk045) — CMOS gates → Booth-Wallace adder tree, Spectre-verified, Pegasus DRC |
 | [batched-fft-benchmark](https://github.com/arsalansaif/batched-fft-benchmark) | Hand-written batched 1D FFT in C++/OpenMP & CUDA, benchmarked vs. Intel MKL and cuFFT on P100/V100 GPUs — with roofline & memory-bandwidth analysis |
 | [design-exploration](https://github.com/arsalansaif/design-exploration) | 18-dimensional CPU design-space exploration in SimpleScalar, optimizing for execution time and energy efficiency |
 | [cache-simulator](https://github.com/arsalansaif/cache-simulator) | Configurable set-associative CPU cache simulator in C (variable size / associativity / block size, LRU) |
@@ -34,8 +35,15 @@ Currently focused on **design verification** and **embedded systems**, with a gr
 | [mapreduce-wordcount-c](https://github.com/arsalansaif/mapreduce-wordcount-c) | Multithreaded MapReduce-style word count in C with a bounded producer–consumer buffer |
 | [taxi-driver-trajectory-lstm](https://github.com/arsalansaif/taxi-driver-trajectory-lstm) | PyTorch LSTM for GPS trajectory sequence classification (applied ML) |
 
+## 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arsalansaif&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalansaif&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css,tex" alt="Top languages" />
+</p>
+
 ## 📫 Reach me
 
-- Email: arsalansaif25@gmail.com
+- Email: saif.ar@northeastern.edu
 - LinkedIn: [arsalansaif15](https://www.linkedin.com/in/arsalansaif15/)
 - GitHub: [@arsalansaif](https://github.com/arsalansaif)
