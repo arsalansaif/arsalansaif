@@ -22,6 +22,8 @@ Currently focused on **design verification** and **embedded systems**, with a gr
 | [batched-fft-benchmark](https://github.com/arsalansaif/batched-fft-benchmark) | Hand-written batched 1D FFT in C++/OpenMP & CUDA, benchmarked vs. Intel MKL and cuFFT on P100/V100 GPUs — with roofline & memory-bandwidth analysis |
 | [cpu-design-space-exploration](https://github.com/arsalansaif/cpu-design-space-exploration) | 18-dimensional CPU pipeline & memory-hierarchy design-space exploration in SimpleScalar |
 | [cache-simulator](https://github.com/arsalansaif/cache-simulator) | Configurable set-associative CPU cache simulator in C (variable size / associativity / block size, LRU) |
+| [cordic-signal-processor](https://github.com/arsalansaif/cordic-signal-processor) | CORDIC-based signal processor — complex FIR filter + Cartesian→polar rotator, built with HLS pipeline/unroll pragmas |
+| [five-stage-pipelined-cpu-verilog](https://github.com/arsalansaif/five-stage-pipelined-cpu-verilog) | Five-stage pipelined CPU (IF/ID/EX/MEM) in Verilog for Xilinx FPGAs |
 | [mapreduce-wordcount-c](https://github.com/arsalansaif/mapreduce-wordcount-c) | Multithreaded MapReduce-style word count in C with a bounded producer–consumer buffer |
 | [taxi-driver-trajectory-lstm](https://github.com/arsalansaif/taxi-driver-trajectory-lstm) | PyTorch LSTM for GPS trajectory sequence classification (applied ML) |
 
