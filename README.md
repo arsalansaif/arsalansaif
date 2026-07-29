@@ -8,8 +8,8 @@ Currently focused on **design verification** and **embedded systems**, with a gr
 
 - **Hardware / VLSI:** digital design, Verilog, design verification, embedded systems, sensor integration
 - **Architecture & systems:** CPU/GPU architecture, memory hierarchies & caches, CUDA, OpenMP, performance analysis
-- **Languages:** C, C++, Python, CUDA, Verilog
-- **AI / ML:** PyTorch, applied machine learning
+- **Languages:** C/C++, Python, CUDA, Verilog, JavaScript
+- **AI / ML:** PyTorch, Tensorflow, Scikit-learn
 
 ## 💡 Experience highlight
 
@@ -29,6 +29,6 @@ Currently focused on **design verification** and **embedded systems**, with a gr
 
 ## 📫 Reach me
 
-- Email: saif.ar@northeastern.edu
+- Email: arsalansaif25@gmail.com
 - LinkedIn: [arsalansaif15](https://www.linkedin.com/in/arsalansaif15/)
 - GitHub: [@arsalansaif](https://github.com/arsalansaif)
