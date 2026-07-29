@@ -4,12 +4,19 @@ MS **Electrical & Computer Engineering** student focused on **hardware engineeri
 
 Currently focused on **design verification** and **embedded systems**, with a growing focus on **computer architecture and memory systems for AI and HPC**.
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-1B1F23?style=for-the-badge&logo=verilog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ## 🔧 Skills
 
 - **Hardware / VLSI:** digital design, Verilog, design verification, embedded systems, sensor integration
 - **Architecture & systems:** CPU/GPU architecture, memory hierarchies & caches, CUDA, OpenMP, performance analysis
-- **Languages:** C/C++, Python, CUDA, Verilog, JavaScript
-- **AI / ML:** PyTorch, Tensorflow, Scikit-learn
+- **Languages:** C, C++, Python, CUDA, Verilog
+- **AI / ML:** PyTorch, applied machine learning
 
 ## 💡 Experience highlight
 
@@ -27,8 +34,15 @@ Currently focused on **design verification** and **embedded systems**, with a gr
 | [mapreduce-wordcount-c](https://github.com/arsalansaif/mapreduce-wordcount-c) | Multithreaded MapReduce-style word count in C with a bounded producer–consumer buffer |
 | [taxi-driver-trajectory-lstm](https://github.com/arsalansaif/taxi-driver-trajectory-lstm) | PyTorch LSTM for GPS trajectory sequence classification (applied ML) |
 
+## 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arsalansaif&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalansaif&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css,tex" alt="Top languages" />
+</p>
+
 ## 📫 Reach me
 
-- Email: arsalansaif25@gmail.com
+- Email: saif.ar@northeastern.edu
 - LinkedIn: [arsalansaif15](https://www.linkedin.com/in/arsalansaif15/)
 - GitHub: [@arsalansaif](https://github.com/arsalansaif)
