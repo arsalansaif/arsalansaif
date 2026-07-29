@@ -43,6 +43,6 @@ Currently focused on **design verification** and **embedded systems**, with a gr
 
 ## 📫 Reach me
 
-- Email: saif.ar@northeastern.edu
+- Email: arsalansaif25@gmail.com
 - LinkedIn: [arsalansaif15](https://www.linkedin.com/in/arsalansaif15/)
 - GitHub: [@arsalansaif](https://github.com/arsalansaif)
