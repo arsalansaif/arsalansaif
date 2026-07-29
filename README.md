@@ -35,15 +35,8 @@ Currently focused on **design verification** and **embedded systems**, with a gr
 | [mapreduce-wordcount-c](https://github.com/arsalansaif/mapreduce-wordcount-c) | Multithreaded MapReduce-style word count in C with a bounded producer–consumer buffer |
 | [taxi-driver-trajectory-lstm](https://github.com/arsalansaif/taxi-driver-trajectory-lstm) | PyTorch LSTM for GPS trajectory sequence classification (applied ML) |
 
-## 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arsalansaif&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalansaif&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css,tex" alt="Top languages" />
-</p>
-
 ## 📫 Reach me
 
-- Email: saif.ar@northeastern.edu
+- Email: arsalansaif25@gmail.com
 - LinkedIn: [arsalansaif15](https://www.linkedin.com/in/arsalansaif15/)
 - GitHub: [@arsalansaif](https://github.com/arsalansaif)
